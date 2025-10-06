@@ -1,5 +1,5 @@
 # Road-Accident-Analysis-Dashboard
-![alt txt](https://github.com/road accident analysis.png)
+![alt txt](https://github.com/Akash02-coder/Road-Accident-Analysis-Dashboard/blob/3c997f7a3391292a13870d0b29f02d3b15418064/road%20accident%20analysis.png)
 ## Overview
 
 This project aims to analyze road accident data to gain insights into the factors contributing to accidents, identify patterns, and propose data-driven recommendations for improving road safety. The dataset used in this project contains information about various aspects of road accidents, such as location, time, weather conditions, and severity.
